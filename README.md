@@ -1,5 +1,5 @@
-##Domain 1 Brief breakdown
-## Security Principals
+## Domain 1 Brief breakdown
+# Security Principals
 
 **C**onfidentiality, **I**ntegrity and **A**vailability (**CIA**) Triad
 
