@@ -4,7 +4,7 @@ Welcome to my technical portfolio and certification roadmap. As a 2nd-year Infor
 This repository serves as a live documentation of my progress, bridging the gap between deploying scalable systems and securing them against modern threats.
 
 📍 Current Focus: Securing the Pipeline
-I am currently an official ISC2 Candidate preparing for the Certified in Cybersecurity (CC) exam (Scheduled: June 11, 2026). My objective is to integrate ISC2 security principles directly into my DevOps workflows. Im activly documenting my progress on the projects tab, have a look: [Projects](./Certificate-of-Cybersecurity/)
+I am currently an official ISC2 Candidate preparing for the Certified in Cybersecurity (CC) exam (Scheduled: June 11, 2026). My objective is to integrate ISC2 security principles directly into my DevOps workflows. I'm actively documenting my progress on the projects tab, have a look: [Projects](./Certificate-of-Cybersecurity/)
 
 🏗️ Technical Competencies & Learning Path
 Infrastructure as Code & Automation: Leveraging tools like Docker and Ubuntu Server to create reproducible, secure environments.
